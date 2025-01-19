@@ -5,4 +5,4 @@
 **InternId**:  CT06MKS
 **Domain**  :VLSI
 **BatchDuration: Jan 15-th to -FEB 15th  4 weeks
-**Mentor Name**:NEELA santhosh
+**Mentor Name**:Neela Santhosh
