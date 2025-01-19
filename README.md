@@ -58,6 +58,6 @@ This basic ALU design can be extended to support more operations and larger inpu
 
 ##OUTPUT
 
-
+https://github.com/galiharshavardhan7/ARITHMETIC-LOGIC-UNIT-ALU-/issues/2#issuecomment-2600904135
 
 
