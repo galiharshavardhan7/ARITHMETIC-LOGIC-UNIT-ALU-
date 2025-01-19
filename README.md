@@ -58,6 +58,6 @@ This basic ALU design can be extended to support more operations and larger inpu
 
 **OUTPUT**
 
-
+![Image](https://github.com/user-attachments/assets/68eac30c-13b9-42b7-9d67-f8949f551438)
 
 
