@@ -56,7 +56,7 @@ OR: Set OP to 011 (OR), A to 1010 (10), and B to 1100 (12). The result will be 1
 NOT A: Set OP to 100 (NOT A), A to 1010 (10), and B to XXXX (don't care). The result will be 0101 (5).
 This basic ALU design can be extended to support more operations and larger input sizes.ion.
 
-**OUTPUT**
+##OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/68eac30c-13b9-42b7-9d67-f8949f551438)
 
