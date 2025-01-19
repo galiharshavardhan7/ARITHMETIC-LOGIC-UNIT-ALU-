@@ -60,4 +60,5 @@ This basic ALU design can be extended to support more operations and larger inpu
 
 ![Image](https://github.com/user-attachments/assets/68eac30c-13b9-42b7-9d67-f8949f551438)
 
+![Image](https://github.com/user-attachments/assets/68eac30c-13b9-42b7-9d67-f8949f551438)
 
